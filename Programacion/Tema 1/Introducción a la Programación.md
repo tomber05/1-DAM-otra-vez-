@@ -20,5 +20,10 @@ Operadores:
 	Aritmeticos:
 		- "+" sumar
 		- "-"  restar
-		-  "*"
-	
+		-  ""
+Lista de preferencia:
+1- ()
+2- Arizeticológica
+3- Alfanuméricos
+4- Relacionales
+5- Lógicos

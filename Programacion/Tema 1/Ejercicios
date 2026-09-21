@@ -1,0 +1,155 @@
+﻿
+
+A
+B
+C
+
+Introducción
+4
+2
+3
+1
+A = B
+2
+2
+3
+2
+C = A
+2
+2
+2
+3
+B = (A+B+C)/2
+2
+3
+2
+4
+A = A + C
+4
+3
+2
+5
+C = B - A
+4
+3
+-1
+6
+C = C - A
+4
+3
+-5
+7
+A = A * B
+12
+3
+-5
+8
+A = A + 3
+15
+3
+-5
+9
+A = A % B
+0
+3
+-5
+10
+C = C + A
+0
+3
+-5
+
+2:
+
+((3 + 2) ^ 2 – 15) / 2 * 5 
+((5)² – 15)/2*5
+(25 - 15) /2*5
+10/2*5
+5*5 = 25 
+
+5 – 2 > 4 AND NOT 0.5 == 1 / 2
+3 > 4 AND NOT 0,5 == 0,5
+Falso AND NOT VERDADERO
+FALSO AND FALSO
+FALSO 
+
+Dado x = 1, y = 4, z = 10, pi = 3.14, e = 2.71 
+2 * x + 0.5 + y – 1 / 5 * z
+2 * 1 + 0,5 + 4 – 1 / 5 * 10
+2 + 0,5 + 4 – 0,2 * 10
+2 + 0,5 + 4  - 2
+2,5 + 2 =4,5 
+
+Dado x = 1, y = 4, z = 10, pi = 3.14, e = 2.71 
+pi * x ^ 2 > y OR 2 * pi * x <= z
+3,14 * 1² > 4 OR 2 * 3,14 * 1 <= 10
+3,14 > 4 OR 6,28 <= 10
+FALSO OR VERDADERO
+VERDADERO
+
+Dadas las siguientes variables y constantes: x = 1, y = 4, z = 10, pi = 3.14, e = 2.71 
+e ^ (x – 1) / (x * z) / (x / z)
+2,71^ (1 – 1) / (1 * 10) / (1 / 10)
+2,71⁰ / 10 / 0,1
+1/10 / 0,1
+0,1 / 0,1 = 1
+
+''Don '' + ''Juan'' == ''Don Juan'' OR ''A'' == ''a''
+“Don Juan” == “Don Juan” OR FALSO
+VERDADERO OR FALSO
+VERDADERO
+
+6: Evalúa las siguientes expresiones:
+
+1) 24 % 5 =  4
+
+2) 7 / 2 + 2.5
+3,5 / 4,5 = 0,777777…
+
+3) 10.8 / 2 + 2
+10,8 / 4 = 2,7
+
+4) ( 4 + 6 ) * 3 + 2 * ( 5 - 1 )
+10 * 3 + 2 * 4
+30 + 8 = 38
+
+5) 5 / 2 + 17 % 3
+2,5 + 2 = 4,5
+
+6) 7 >= 5 OR 27 <> 8
+VERDADERO OR VERDADERO
+VERDADERO
+
+7) (45 <= 7) OR NOT ( 5 >= 7 )
+FALSO OR NOT FALSO
+FAÑSO OR VERDERO
+VERDADERO
+
+8) 27 % 4 + 15 / 4
+3 + 3,75 = 6,75
+
+9) 37 / 4 * 4 – 2
+9,25 * 4 – 2
+37 – 2 = 35
+
+10) (25 >= 7) AND NOT (7 <=2)
+11) ('H' < 'J') AND ('9' <> '7')
+12) 25 > 20 AND 13 > 5
+13) 10 + 4 < 15 - 3 OR 2 * 5 + 1 > 14 – 2 * 2
+14) 4 * 2 <= 8 OR 2 * 2 < 5 AND 4 > 3 + 1
+15) 10 <= 2 * 5 AND 3 < 4 OR NOT (8>7) AND 3 * 2 <= 4 * 2 - 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
