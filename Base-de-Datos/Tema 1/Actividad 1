@@ -1,0 +1,72 @@
+﻿1. Definición general de “fichero de datos”.
+• ¿Qué es un fichero de datos?
+ Es una estructura de inforación creada por el sistema operativo para almacenar datos en forma de un montón de bits en fila.
+
+• ¿Qué finalidad tiene en el contexto de una aplicación web?
+Su finalidad es la de definir la estructura de una pagina web.
+
+
+2. Tipos de ficheros utilizados en el almacenamiento de datos:
+Explica al menos cuatro tipos. Puedes usar los siguientes u otros:
+• CSV (Comma Separated Values)
+- Definición:
+Tipo de documento de formato abierto que representa datos en forma de tabla
+- Sintaxis o estructura básica (puedes incluir un ejemplo)
+Las que las columnas se separan por comas y filas por saltos de linea
+- Ventajas e inconvenientes
+Sencillo pero no esta estandarizado e implementaciones de CSV pueden no manejar Doble punto o punto y coma, o usar comillas de otra clase para envolver el campo.
+- Usos comunes en el desarrollo web
+Se usa para almacenar datos
+
+JSON (JavaScript Object Notation)
+- Definición
+JavaScript Object Notation - Notación de Objetos de JavaScript, es un formato ligero de intercambio de datos.
+- Sintaxis o estructura básica (puedes incluir un ejemplo)
+ # las llaves son los objetos
+{ 
+#Se declara una propiedad y luego se pone el valor de dicha propiedad tras un “:”
+
+#cuando se pasa a la siguiente linea se pone una “,” al final de la linea
+	“Nombre” : “Tomi”,
+#Los valores numéricos no necesitan estar entre comillas. Si le pones comillas es un string y si no, #es un número.
+	“Edad” : 21,
+	“Estatura” : 1.70
+#al finalizar un objeto, no se pone la coma al final de la linea
+}
+- Ventajas e inconvenientes
+
+- Usos comunes en el desarrollo web
+
+• XML (eXtensible Markup Language)
+- Definición
+- Sintaxis o estructura básica (puedes incluir un ejemplo)
+- Ventajas e inconvenientes
+- Usos comunes en el desarrollo web
+
+• Ficheros binarios (.dat, .bin, etc.)
+- Definición
+- Sintaxis o estructura básica (puedes incluir un ejemplo)
+- Ventajas e inconvenientes
+- Usos comunes en el desarrollo web
+
+Para cada uno indica:
+• Definición
+• Sintaxis o estructura básica (puedes incluir un ejemplo)
+• Ventajas e inconvenientes
+• Usos comunes en el desarrollo web
+
+
+3. Comparativa entre los formatos analizados:
+• ¿Cuál es más legible para un ser humano?
+
+• ¿Cuál se utiliza más en APIs?
+
+• ¿Cuál ocupa menos espacio?
+
+• ¿Cuál es más fácil de procesar por una máquina?
+
+
+4. Reflexión final:
+• ¿Cuál de estos formatos te parece más interesante y por qué?
+
+• ¿Has trabajado con alguno de ellos anteriormente? ¿En qué contexto?
