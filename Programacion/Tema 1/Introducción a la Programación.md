@@ -27,3 +27,8 @@ Lista de preferencia:
 3- Alfanuméricos
 4- Relacionales
 5- Lógicos
+
+Bucles:
+	While --> Condición al principio
+	Do-While --> Menú de  opciones
+	For --> Nº Finito
