@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Definir a Como Entero
+	
+	Escribir "Introduzca un número entero: "
+	Leer a
+	
+	Si a%2=0 Entonces
+		Escribir "El número es par"
+	SiNo
+		Escribir "El nñumero impar"
+	FinSi
+FinAlgoritmo
