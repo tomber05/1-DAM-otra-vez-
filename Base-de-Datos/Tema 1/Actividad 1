@@ -34,11 +34,15 @@ JavaScript Object Notation - Notación de Objetos de JavaScript, es un formato l
 #al finalizar un objeto, no se pone la coma al final de la linea
 }
 - Ventajas e inconvenientes
-
+Simple, ligero, eficiente y universal.
+tipos de datos limitados, no permite comentarios y redundancia en datos muy grandes
 - Usos comunes en el desarrollo web
+JSON es ampliamente utilizado en la creación de páginas web y de aplicaciones móviles debido a su facilidad de manejo y compatibilidad con diversos lenguajes de programación.
 
 • XML (eXtensible Markup Language)
 - Definición
+XML significa eXtensible Markup Lenguage (Lenguaje de Marcas Extensible) y permite definir lenguajes de marcas desarrollados por la W3C.
+
 - Sintaxis o estructura básica (puedes incluir un ejemplo)
 - Ventajas e inconvenientes
 - Usos comunes en el desarrollo web
