@@ -1,5 +1,9 @@
 body {
-  background-color: #f0f0f0;
+  background-color: #031931;
   font-size: 42px;
   font-family: Arial, sans-serif;
+}
+
+.cabecera {
+  color: #411ab6;
 }
