@@ -2,8 +2,10 @@ body {
   background-color: #031931;
   font-size: 42px;
   font-family: Arial, sans-serif;
+  font-color: #ffffff;
 }
 
 .cabecera {
-  color: #411ab6;
+  background-color: #411ab6;
+  color: #ffffff;
 }
