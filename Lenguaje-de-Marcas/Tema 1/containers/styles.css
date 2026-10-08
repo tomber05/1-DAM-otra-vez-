@@ -1,0 +1,21 @@
+body{
+  background-color: blue;
+}
+
+.container {
+  width: 400px;
+  height: 200px;
+  background-color: yellow;
+}
+
+.izquierda {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.derecha {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
